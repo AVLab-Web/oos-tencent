@@ -1,0 +1,8 @@
+{
+	"name": "oos-tencent",
+	"version": "0.0.1",
+	"description": "tof login",
+	"main": "index.js",
+	"author": "chriscai, kaelyang",
+	"license": "MIT"
+}
